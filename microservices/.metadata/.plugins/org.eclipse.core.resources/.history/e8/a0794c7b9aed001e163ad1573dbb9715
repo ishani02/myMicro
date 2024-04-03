@@ -1,0 +1,5 @@
+package com.example.identity.config;
+
+public class AuthConfig {
+
+}

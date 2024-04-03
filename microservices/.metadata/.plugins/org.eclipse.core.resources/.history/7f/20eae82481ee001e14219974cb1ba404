@@ -1,0 +1,9 @@
+package com.example.identity.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.example.identity.entities.UserCredential;
+
+public interface UserCredentialRepository extends JpaRepository<UserCredential, Integer>{
+
+}
